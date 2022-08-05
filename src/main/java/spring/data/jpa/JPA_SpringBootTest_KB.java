@@ -24,5 +24,12 @@ public class JPA_SpringBootTest_KB {
            spring.jpa.hibernate.ddl-auto=create-drop
            in application.properties (inside test(!) resource folder)
          */
+
+        /*
+        @OneToOne
+        делать через
+        https://www.baeldung.com/jpa-one-to-one
+        4. Using a Shared Primary Key
+         */
     }
 }
