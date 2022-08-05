@@ -1,0 +1,9 @@
++07 - Глибоко про Функціональне Програмування в Java
+{t 1-01-31} [coded in-KB func-2022-07-22-10-27-00]
+
+https-//www.youtube.com/watch?v=qMgBfTWFMtI
+Глибоко про Функціональне Програмування в Java
+t 1-01-30
+
+Add later from private repo by file name
+func-2022-07-22-10-27-00

@@ -1,0 +1,6 @@
++02-1 Найважливіше Про Аннотації в Java {t 16-29} [in-KB annotations-2022-07-21-16-18-00]
+
+https://www.youtube.com/watch?v=KF1H2EOCdD4
+
+Add later from private repo by file name
+annotations-2022-07-21-16-18-00

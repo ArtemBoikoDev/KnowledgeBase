@@ -1,0 +1,9 @@
++17 - Spring Boot, Embedded Tomcat, Auto Configuration, Starters, Actuator
+{t 1-37-18} [in-KB boot-2022-08-02-17-07]
+
+https-//www.youtube.com/watch?v=PXciZpLDvCw
+Spring Boot. Детально і з прикладами про Embedded Tomcat, Auto Configuration, Starters, Actuator
+t 1-37-17
+
+Add later from private repo by file name
+boot-2022-08-02-17-07

@@ -1,0 +1,9 @@
++18 - Як працює магія Spring під капотом @EnableMagic, BeanDefinition, BeanPostProcessor 
+{t 1-32-18} [in-KB spring-2022-08-03-18-14]
+
+https-//www.youtube.com/watch?v=SveQOFTEyP4
+Як працює магія Spring під капотом? @EnableMagic, BeanDefinition та BeanPostProcessor
+t 1-32-18
+
+Add later from private repo by file name
+spring-2022-08-03-18-14

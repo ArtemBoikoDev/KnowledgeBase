@@ -1,0 +1,9 @@
++13 - Java на стороні сервера, Servlet API, HTTP
+{t 1-21-49} [in-KB jakarta-2022-07-28-19-49]
+
+https-//www.youtube.com/watch?v=gPBMJNq0_hQ
+Java на стороні сервера. Глибоко про Servlet API та обробку HTTP запитів
+t 1-21-48
+
+Add later from private repo by file name
+jakarta-2022-07-28-19-49

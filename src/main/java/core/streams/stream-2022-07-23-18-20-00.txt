@@ -1,0 +1,9 @@
++08 - Розбір Stream API Принципи роботи Колектори Optional API
+{t 1-23-20} [in-KB stream-2022-07-23-18-20-00]
+
+https://www.youtube.com/watch?v=arIwqmbO22g
+Розбір Stream API: Принципи роботи, Колектори. Optional API
+t 1-23-20
+
+Add later from private repo by file name
+stream-2022-07-23-18-20-00

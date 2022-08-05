@@ -1,0 +1,9 @@
++16 - Огляд принципів REST та інтрументів Spring MVC 
+{t 1-32-07} [in-KB rest-mvc-2022-07-31-18-03]
+
+https-//www.youtube.com/watch?v=oIAv6rC7770
+Огляд принципів REST та інтрументів Spring MVC
+t 1-32-06
+
+Add later from private repo by file name
+rest-mvc-2022-07-31-18-03

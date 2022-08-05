@@ -1,0 +1,9 @@
++10 - Можливості нової Java 17 Огляд CompletableFuture JVM мови 
+{t 1-21-33} [in-KB java-2022-07-25-17-42]
+
+https-//www.youtube.com/watch?v=VM9tEmYwLDY
+Можливості нової Java 17. Огляд CompletableFuture. JVM мови.
+t 1-21-32
+
+Add later from private repo by file name
+java-2022-07-25-17-42
