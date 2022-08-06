@@ -1,5 +1,8 @@
 package core.copy;
 
+/**
+ * https://www.baeldung.com/java-deep-copy
+ */
 public class ObjectsCopy_KB {
     public static void main(String[] args) {
         Type1 type1 = new Type1();
