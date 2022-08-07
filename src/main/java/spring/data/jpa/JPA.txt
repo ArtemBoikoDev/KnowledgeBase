@@ -1,0 +1,12 @@
+JOIN vs JOIN FETCH
+говорят, что JOIN FETCH специфичен для JPA, но проверил,
+оба работают одинаково,
+оба варианта сводят количество запросов к одному
+
+
+@OneToOne
+делать через
+https://www.baeldung.com/jpa-one-to-one
+4. Using a Shared Primary Key
+
+
