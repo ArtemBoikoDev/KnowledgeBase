@@ -1,0 +1,9 @@
++02 - Основи Java. Класи. Аннотації. Модель памяті. Дженеріки
+{t 55-16} [in-KB java-2022-07-05-17-00]
+
+https://www.youtube.com/watch?v=i5LZqWFMyVw
+Основи Java: Класи, Аннотації, Модель пам`яті, Дженеріки
+t 55-16
+
+Add later from private repo by file name
+java-2022-07-05-17-00
