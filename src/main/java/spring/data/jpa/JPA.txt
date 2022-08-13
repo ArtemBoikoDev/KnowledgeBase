@@ -10,3 +10,5 @@ https://www.baeldung.com/jpa-one-to-one
 4. Using a Shared Primary Key
 
 
+org.modelmapper
+очень медленный, в разы быстрее делать через ObjectMapper из Jackson
