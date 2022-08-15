@@ -1,0 +1,9 @@
++20 - Основи Реляційної БД. SQL. Ключі. Обмеження
+{t 48-40} [in-KB sql-2022-08-12-16-57]
+
+https-//www.youtube.com/watch?v=AcEZ_ajodW0
+Основи Реляційної БД. SQL. Ключі. Обмеження
+t 48-39
+
+Add later from private repo by file name
+sql-2022-08-12-16-57
