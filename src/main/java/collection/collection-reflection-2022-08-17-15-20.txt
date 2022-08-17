@@ -1,0 +1,9 @@
++05 - Бібліотека Java Collection API. Reflection API
+{t 52-55} [in-KB collection-reflection-2022-08-17-15-20]
+
+https://www.youtube.com/watch?v=NNasGQOhnsE
+Бібліотека Java. Collection API. Reflection API
+t 52-54
+
+Add later from private repo by file name
+collection-reflection-2022-08-17-15-20
