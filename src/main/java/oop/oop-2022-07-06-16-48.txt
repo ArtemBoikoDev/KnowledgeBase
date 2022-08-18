@@ -1,0 +1,9 @@
++06 - ООП з точки зору корпоративної розробки на Java
+{t 38-00} [in-KB oop-2022-07-06-16-48]
+
+youtube.com/watch?v=R5VAJdMBJbc
+ООП з точки зору корпоративної розробки на Java
+t 38-00
+
+Add later from private repo by file name
+oop-2022-07-06-16-48
