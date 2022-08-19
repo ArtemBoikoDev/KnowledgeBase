@@ -1,0 +1,9 @@
++21 - Ключі, Типи Звʼязків (1-1, 1-m, n-m, self-join)
+{t 1-01-26} [in-KB sql-2022-08-19-12-18]
+
+youtube.com/watch?v=Qrb_zkxKVnA
+Ключі + Типи Звʼязків (1-1, 1-m, n-m, self-join)
+t 1-01-26
+
+Add later from private repo by file name
+sql-2022-08-19-12-18
