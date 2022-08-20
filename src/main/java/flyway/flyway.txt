@@ -1,0 +1,1 @@
+https://flywaydb.org/documentation/getstarted/firststeps/commandline
