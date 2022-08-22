@@ -1,0 +1,9 @@
++22 - Транзакції і Багатопоточний доступ до БД
+{t 54-05} [in-KB transact-2022-08-22-17-40]
+
+youtube.com/watch?v=Rr_PPvhH3WI
+Транзакції і Багатопоточний доступ до БД
+t 54-04
+
+Add later from private repo by file name
+transact-2022-08-22-17-40
