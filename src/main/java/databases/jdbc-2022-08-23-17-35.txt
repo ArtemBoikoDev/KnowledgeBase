@@ -1,0 +1,6 @@
+youtube.com/watch?v=cWjjUQ2IzuY
+JDBC API. Як реалізувати свій Connection Pool
+t 1-04-52
+
+до сих
+42-24
