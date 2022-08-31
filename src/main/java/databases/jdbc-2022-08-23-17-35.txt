@@ -1,6 +1,9 @@
++23 - JDBC API. Як реалізувати свій Connection Pool 
+{t 1-04-52} [in-KB jdbc-2022-08-23-17-35]
+
 youtube.com/watch?v=cWjjUQ2IzuY
 JDBC API. Як реалізувати свій Connection Pool
 t 1-04-52
 
-до сих
-42-25
+Add later from private repo by file name
+jdbc-2022-08-23-17-35
