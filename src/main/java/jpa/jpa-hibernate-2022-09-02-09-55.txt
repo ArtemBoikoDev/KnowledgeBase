@@ -1,0 +1,10 @@
++24 - Вступ до ORM, JPA, Hibernate
+{t 1-01-04} [in-KB jpa-hibernate-2022-09-02-09-55]
+
+youtube.com/watch?v=3hbEjHQEWcU
+Вступ до ORM, JPA та Hibernate
+t 1-01-03
+
+
+Add later from private repo by file name
+jpa-hibernate-2022-09-02-09-55
