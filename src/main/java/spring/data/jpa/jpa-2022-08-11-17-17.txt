@@ -1,0 +1,9 @@
++19 - Робота з Базою Даних. Вступ до Java Persistence
+{t 59-56} [in-KB jpa-2022-08-11-17-17]
+
+https://www.youtube.com/watch?v=x-DNSaPBj6Q
+Робота з Базою Даних. Вступ до Java Persistence
+t 59-56
+
+Add later from private repo by file name
+jpa-2022-08-11-17-17

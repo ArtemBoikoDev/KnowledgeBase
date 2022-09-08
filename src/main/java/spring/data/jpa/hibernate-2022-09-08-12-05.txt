@@ -1,0 +1,9 @@
++25 - Сесія, Кеш. Як працює ядро Hibernate
+{t 59-18} [in-KB hibernate-2022-09-08-12-05]
+
+www.youtube.com/watch?v=JXg6DShEmiA
+Сесія + Кеш. Як працює ядро Hibernate?
+t 59-18
+
+Add later from private repo by file name
+hibernate-2022-09-08-12-05
