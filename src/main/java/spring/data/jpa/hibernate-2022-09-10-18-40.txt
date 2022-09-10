@@ -1,0 +1,6 @@
+www.youtube.com/watch?v=mmRcYTWaSaA
+Hibernate ActionQueue. Генерація ID. Управління станом Entity
+t 1-18-14
+
+till
+08-53...
