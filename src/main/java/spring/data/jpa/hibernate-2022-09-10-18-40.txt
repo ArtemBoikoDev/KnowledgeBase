@@ -1,6 +1,9 @@
++26 - Hibernate ActionQueue. Генерація ID. Управління станом Entity 
+{t 1-18-15} [in-KB hibernate-2022-09-10-18-40]
+
 www.youtube.com/watch?v=mmRcYTWaSaA
 Hibernate ActionQueue. Генерація ID. Управління станом Entity
 t 1-18-14
 
-till
-55-04...
+Add later from private repo by file name
+hibernate-2022-09-10-18-40
