@@ -1,0 +1,9 @@
+27 - Основне про Звʼязки між Сутностями в Hibernate. @OneToMany VS @ManyToOne
+[in-KB hibernate-2022-09-16-17-17]
+
+www.youtube.com/watch?v=sOTONItpMe8
+Основне про Звʼязки між Сутностями в Hibernate. @OneToMany VS. @ManyToOne.
+t 49-30
+
+till
+31-35...
