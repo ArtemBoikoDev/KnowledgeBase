@@ -30,7 +30,8 @@ public class ConversionListToMap_KB {
         userList.add(user3);
 
         Map<String, User> usersByEmail = convertInShortWay(userList);
-        usersByEmail.forEach((email, user) -> logger.debug("e-mail: {}, user: {}", email, user));
+        usersByEmail.forEach((email, user) -> logger.debug(
+                "e-mail: {}, " + "user: {}", email, user));
 
         boolean isPresent = containsOnce(userList,
                                          new User(777, "name-777", "email-777"));
