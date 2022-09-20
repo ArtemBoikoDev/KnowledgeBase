@@ -1,0 +1,9 @@
+28 - Глибоко про Звʼязки між Сутностями в Hibernate. Приклади @OneToOne + @ManyToMany
+[in-KB hibernate-2022-09-20-17-30]
+
+www.youtube.com/watch?v=pB85SeadI-A
+Глибоко про Звʼязки між Сутностями в Hibernate. Приклади @OneToOne + @ManyToMany
+t 1-10-42
+
+до сих
+25-20...
