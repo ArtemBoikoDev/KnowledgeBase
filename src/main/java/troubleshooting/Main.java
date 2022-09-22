@@ -15,5 +15,7 @@ public class Main {
      *     netsh interface ipv4 show excludedportrange protocol=tcp
      *     net stop winnat
      *
+     * =>java.lang.NullPointerException:null!!!
+     * check @JsonIgnore on non-collection sub-entity
      */
 }
