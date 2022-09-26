@@ -1,0 +1,9 @@
++29 - Повний огляд Spring Data JPA
+{t 1-23-06} [in-KB jpa-2022-09-25-11-50]
+
+www.youtube.com/watch?v=aJulegjqWEw
+Повний огляд Spring Data JPA
+t 1-23-05
+
+Add later from private repo by file name
+jpa-2022-09-25-11-50
