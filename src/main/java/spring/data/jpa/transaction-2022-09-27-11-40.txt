@@ -1,0 +1,10 @@
++30 - Proxy, ThreadLocal. Як працює Spring Transaction Manager
+{t 1-12-12} [in-KB transaction-2022-09-27-11-40]
+
+www.youtube.com/watch?v=fluQhpePJOY
+t 1-12-11
+Proxy + ThreadLocal. Як працює Spring Transaction Manager під капотом
+
+
+Add later from private repo by file name
+transaction-2022-09-27-11-40
