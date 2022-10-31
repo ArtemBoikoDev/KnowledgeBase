@@ -1,0 +1,10 @@
++31 - Як пришвидшити JPA, Техніки оптимізації продуктивності
+{t 1-16-27} [in-KB jpa-2022-09-29-15-30]
+
+www.youtube.com/watch?v=SluyOGB5XrY
+t 1-16-27
+Як пришвидшити JPA? Техніки оптимізації продуктивності
+
+
+Add later from private repo by file name
+jpa-2022-09-29-15-30
