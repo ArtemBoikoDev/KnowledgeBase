@@ -1,0 +1,10 @@
+33 - Як JPA,Hibernate реалізовує ідеї Domain-Driven Design
+{t 53-25} [in-KB ddd-2022-10-25-14-20]
+
+https://www.youtube.com/watch?v=L27ca5eCOlA
+t 53-24
+Як JPA/Hibernate реалізовує ідеї "Domain-Driven Design".
+Sep 14, 2022
+
+Add later from private repo by file name
+ddd-2022-10-25-14-20
