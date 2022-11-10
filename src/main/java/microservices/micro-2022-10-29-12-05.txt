@@ -1,0 +1,11 @@
++34 - Основи Мікросервісів. Spring Cloud (Config, Discovery, Load Balancing, Feign Clients)
+{t 1-08-31} [in-KB micro-2022-10-29-12-05]
+
+https://www.youtube.com/watch?v=NTUh9UKnLK0
+t 1:08:31
+Основи Мікросервісів. Spring Cloud (Config, Discovery, Load Balancing, Feign Clients)
+Sep 21, 2022
+
+
+Add later from private repo by file name
+micro-2022-10-29-12-05
