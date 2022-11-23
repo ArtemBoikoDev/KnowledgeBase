@@ -1,0 +1,5 @@
++09 - Pull from remote
+{3-17} [in-KB git-2022-07-18-12-00]
+
+Add later from private repo by file name
+git-2022-07-18-12-00
