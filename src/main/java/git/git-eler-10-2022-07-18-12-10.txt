@@ -1,5 +1,5 @@
 +10 - Тест - базовые операции
-[in-KB git-2022-07-18-12-10]
+[in-KB git-eler-10-2022-07-18-12-10]
 
 Add later from private repo by file name
-git-2022-07-18-12-10
+git-eler-10-2022-07-18-12-10

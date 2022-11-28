@@ -1,6 +1,6 @@
 +08 - Create a github repo and clone it
-{t 6-12} [in-KB git-2022-07-16-17-05]
+{t 6-12} [in-KB git-eler-08-2022-07-16-17-05]
 
 
 Add later from private repo by file name
-git-2022-07-16-17-05
+git-eler-08-2022-07-16-17-05
