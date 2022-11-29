@@ -1,0 +1,5 @@
++12 - Inside .git folder
+{t 9-50} [in-KB git-eler-12-2022-07-18-13-40]
+
+Add later from private repo by file name
+git-eler-12-2022-07-18-13-40

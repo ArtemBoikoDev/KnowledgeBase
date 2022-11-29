@@ -1,6 +1,5 @@
 +07 - Тест - настройка git
 [in-KB git-eler-07-2022-07-16-16-20]
 
-
 Add later from private repo by file name
 git-eler-07-2022-07-16-16-20
