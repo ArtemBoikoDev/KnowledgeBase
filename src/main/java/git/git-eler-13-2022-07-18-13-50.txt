@@ -1,0 +1,5 @@
++13 - Тест - внутреннее устройство git
+[in-KB git-eler-13-2022-07-18-13-50] (без видео)
+
+Add later from private repo by file name
+git-eler-13-2022-07-18-13-50
